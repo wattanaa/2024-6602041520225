@@ -1,0 +1,7 @@
+GET http://localhost:8080/api/teachers
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzM2ODQyNjg5LCJleHAiOjE3Mzk0MzQ2ODl9.7wakzVSRog9KOgHYvH5miHaLP4YefV63-S5HQ0e4m00
+
+
+# FileOne
+GET http://localhost:8080/api/teachers/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzM2ODQyNjg5LCJleHAiOjE3Mzk0MzQ2ODl9.7wakzVSRog9KOgHYvH5miHaLP4YefV63-S5HQ0e4m00
